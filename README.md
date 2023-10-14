@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Codorean Catalin</h1>
 <h3 align="center">Contact: codoreancatalin@yahoo.com</h3>
-<img align="right" alt="opium" width="400" src="https://media.tenor.com/9pZtLxVsemsAAAAd/luh-calm-luh-calm-fit.gif">
+<img align="right" alt="opium" width="400" src="[https://media.tenor.com/9pZtLxVsemsAAAAd/luh-calm-luh-calm-fit.gif](https://steamuserimages-a.akamaihd.net/ugc/2098170810883935219/134F23AD97CE097B7970A129E0DEF53089D363EA/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=targetc&label=Profile%20views&color=0e75b6&style=flat" alt="targetc" /> </p>
 
